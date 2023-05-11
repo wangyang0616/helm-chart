@@ -38,6 +38,24 @@ entries:
     - https://github.com/wangyang0616/volcano-helm-charts/releases/download/volcano-1.6.21/volcano-1.6.21.tgz
     version: 1.6.21
   - apiVersion: v1
+    appVersion: 1.6.21-test2
+    created: "2023-05-11T03:25:45.39223257Z"
+    description: A Helm chart for Volcano
+    digest: 5f5c108f3fba74af11f24e7424b7a1007d2f4d3216c0826816f2a74c5754226c
+    home: https://volcano.sh
+    icon: https://raw.githubusercontent.com/volcano-sh/charts/master/docs/images/volcano-logo.png
+    maintainers:
+    - email: klaus1982.cn@gmail.com
+      name: k82cn
+    - email: kevinwzf0126@gmail.com
+      name: kevin-wangzefeng
+    name: volcano
+    sources:
+    - https://github.com/volcano-sh/volcano
+    urls:
+    - https://github.com/wangyang0616/volcano-helm-charts/releases/download/volcano-1.6.21-test2/volcano-1.6.21-test2.tgz
+    version: 1.6.21-test2
+  - apiVersion: v1
     appVersion: 1.6.21-test1
     created: "2023-05-11T03:02:27.220636486Z"
     description: A Helm chart for Volcano
@@ -109,4 +127,4 @@ entries:
     urls:
     - https://github.com/wangyang0616/volcano-helm-charts/releases/download/volcano-1.6.5/volcano-1.6.5.tgz
     version: 1.6.5
-generated: "2023-05-11T03:02:27.220660586Z"
+generated: "2023-05-11T03:25:45.392264671Z"
